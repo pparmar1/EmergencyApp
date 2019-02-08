@@ -1,5 +1,7 @@
-..::Emergency Alert App::..
+Emergency Alert App:
 
 Working functionalities:
-- detect current location
-- can detect "Help" and "Danger" Keyword and get current location
+- detect current location using GPS Location Provider
+- can detect "Help" and "Danger" Keyword using Text-to-Speech
+- can detect Motion using Accelerometer
+- Compass
